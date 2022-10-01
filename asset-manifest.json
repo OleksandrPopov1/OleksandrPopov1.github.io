@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d67d6f27.css",
-    "main.js": "/static/js/main.dcbea967.js",
+    "main.css": "/static/css/main.05fac0db.css",
+    "main.js": "/static/js/main.50ad9d42.js",
+    "static/media/Josefina.jpg": "/static/media/Josefina.4a56c52d17ad9181fe54.jpg",
+    "static/media/VyvanLe.jpg": "/static/media/VyvanLe.54b4ff416a47d4595f71.jpg",
+    "static/media/SearchImage.jpg": "/static/media/SearchImage.08143e27c274df1c62e0.jpg",
+    "static/media/StatusOnline.png": "/static/media/StatusOnline.a818aba06687f48d3376.png",
+    "static/media/UndefinedUser.png": "/static/media/UndefinedUser.a6143582309785dca610.png",
+    "static/media/AliceFreeman.jpg": "/static/media/AliceFreeman.ec9fd96dc2b3b57bc5cd.jpg",
+    "static/media/OliverMoy.jpg": "/static/media/OliverMoy.aaccfdd39923eddeaa71.jpg",
+    "static/media/NataliaBarulich.jpg": "/static/media/NataliaBarulich.c8d07abcf4f2295f92e9.jpg",
+    "static/media/ManuRios.jpg": "/static/media/ManuRios.686be9702ea61ea0638b.jpg",
     "index.html": "/index.html",
-    "main.d67d6f27.css.map": "/static/css/main.d67d6f27.css.map",
-    "main.dcbea967.js.map": "/static/js/main.dcbea967.js.map"
+    "main.05fac0db.css.map": "/static/css/main.05fac0db.css.map",
+    "main.50ad9d42.js.map": "/static/js/main.50ad9d42.js.map"
   },
   "entrypoints": [
-    "static/css/main.d67d6f27.css",
-    "static/js/main.dcbea967.js"
+    "static/css/main.05fac0db.css",
+    "static/js/main.50ad9d42.js"
   ]
 }
